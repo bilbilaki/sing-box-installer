@@ -45,7 +45,7 @@ https://github.com/RayWangQvQ/sing-box-installer
 mkdir -p ./sing-box && cd ./sing-box
 
 # install
-bash <(curl -sSL https://raw.githubusercontent.com/RayWangQvQ/sing-box-installer/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/bilbilaki/sing-box-installer/main/install.sh)
 ```
 
 ## 1. 大概介绍下
@@ -115,7 +115,7 @@ systemctl enable docker
 mkdir -p ./sing-box && cd ./sing-box
 
 # install
-bash <(curl -sSL https://raw.githubusercontent.com/RayWangQvQ/sing-box-installer/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/bilbilaki/sing-box-installer/main/install.sh)
 ```
 
 运行后会让输入参数：
